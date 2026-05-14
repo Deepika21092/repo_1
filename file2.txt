@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 new file
 deepu
+=======
+my new file 
+>>>>>>> 0854ab2bf65be68ab812ecdfa34c9bae6a3c15f4
